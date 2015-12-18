@@ -2,7 +2,7 @@
 
  **THIS MODULE IS NOT CURRENTLY TESTED**
 
-A module for [Waterlock](http://waterlock.ninja/) providing authentication using the Blackboard VLE. This was orginally written for use with [Synote.js](https://github.com/yunjiali/synote.js).
+A module for [Waterlock](http://waterlock.ninja/) providing authentication using the Blackboard VLE. This was originally written for use with [Synote.js](https://github.com/yunjiali/synote.js).
 
 ## Usage
 This module requires a Blackboard building block (add-on module) to be installed on the target Blackboard server. The module can be found [here](https://github.com/CrispinClark/Blackboard-Waterlock-Authentication-Building-Block). You must configure this module, assigning the Blackboard server a provider id and a shared secret key. Communications are carried out between this module and the server using Json Web Tokens that are signed using the shared secret key.
