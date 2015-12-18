@@ -1,6 +1,6 @@
 # Waterlock Blackboard Auth
 
- **NOT CURRENTLY TESTED**
+ **THIS MODULE IS NOT CURRENTLY TESTED**
 
 A module for [Waterlock](http://waterlock.ninja/) providing authentication using the Blackboard VLE. This was orginally written for use with [Synote.js](https://github.com/yunjiali/synote.js).
 
